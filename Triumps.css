@@ -1,0 +1,413 @@
+
+*{
+    margin: 0;
+}
+.header{
+    background-color: black;
+    width:100%;
+    height:100px ;
+    display: flex;
+   
+    
+}
+#logo{
+    padding-left:50px ;
+    padding-top: 5px;
+    width: 9%;
+    float: left;
+   
+}
+.header h4{
+    color: white;
+    float: left;
+    padding-left:20px ;
+    padding-top: 40px;
+
+}
+.header h4:hover{
+    color:gray;
+}
+.right h5{
+    color:white;
+    padding-left:20px ;
+    padding-top: 40px;
+    display: flex;
+}
+.right{ 
+    display: flex;
+    padding-left: 480px;
+}
+.right h5:hover{
+    color:gray;}
+
+
+.first{
+    background-image:
+    linear-gradient(to bottom, rgba(32, 32, 34, 0.296), rgba(32, 28, 31, 0.916)),
+    url('pic1.jpg');
+    width: 100%;
+    height: 750px;
+}
+.first h1{
+    color: white;
+    font-size: 80px;
+    padding-left:750px ;
+    padding-top: 230px;
+
+}
+.first h2{
+     color:white ;
+     float: right; 
+     padding-left: 1050px;
+     font-size: 80px;
+
+}  
+.first h4{
+     float: right; 
+    padding-left:900px ;
+    color: white;
+    font-size: 20px;
+}
+.first button{
+    background:#cd192d;
+    color: white;
+    float: right;
+    padding-right:20px ;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px; 
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-right: 30px;
+    border: 0;
+}
+.first button:hover{
+    background-color:#750c19
+
+
+
+}
+.second{
+    background-color:#2a2a2a;
+    width:100%;
+    height:80px ;
+}
+#pic2{
+    padding-top: 20px;
+    width: 30px;
+    padding-left: 130px;
+    float: left;
+
+}
+.second h5{
+    color: white;
+    padding-top: 35px;
+    padding-left: 20px;
+    float: left;
+
+}
+
+.second h5:hover{
+    color:gray;
+}
+.second h3{
+    color: white;
+    padding-top:30px ;
+    padding-left: 250px;
+    float: left;
+}
+#pic3{
+    padding-top: 20px;
+    width: 30px;
+    padding-left: 50px;
+    float: left;
+
+}
+#pic4{
+    padding-top: 20px;
+    width: 30px;
+    padding-left: 50px;
+    float: left;
+
+}
+.thred{
+    background-color:white;
+    width:100%;
+    height:60px ;
+}
+.four{
+    background-color:white;
+    width:100%;
+    height:70px ;
+}
+
+
+.four h3{
+    color: black;
+    padding-left: 650px;
+    
+}
+.five{
+    background-color:white;
+    width:100%;
+    height:600px ;
+    display: flex;
+    
+}
+
+.five img{
+    width:80%;
+    padding-left: 50px;
+
+} 
+.five h1{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.five h3{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.five h4{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.five :hover{
+    color: #b1a5a5;
+}
+.five img:hover{
+    width: 90%;
+}
+.six{
+    background-image:
+    linear-gradient(to bottom, rgba(32, 32, 34, 0.61), rgba(32, 28, 31, 0.916)),
+    url('sub.jpg');
+     background-size: cover;
+     height: 600px;
+    width: 100%;
+  
+}
+
+   
+ .six h1{
+    font-size: 60px;
+    color: white;
+    padding-left: 300px;
+    padding-top: 150px;
+} 
+
+.six button{
+    background:#cd192d;
+    color: white;
+    padding-right:90px ;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 90px; 
+    padding-bottom: 15px;
+    margin-left: 650px;
+    margin-top: 20px;
+    border: 0;
+    
+}
+.six button:hover{
+    background-color:#750c19
+
+}
+.seven{
+    background-color:white;
+    width:100%;
+    height:170px ;
+}
+.eight{
+    display: flex;
+}
+.eight h2{
+    padding-top: 40px;
+    padding-left: 60px;
+    
+}
+.eight h4{
+    padding-top: 10px;
+    padding-left: 60px;
+    
+}
+.eight button{
+    background-color: #cd192d;
+    margin-top: 20px;
+    margin-left: 100px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: white;
+    font-size: 20px;
+    border: 0;
+
+}
+
+.eight button:hover{
+    background-color:#750c19
+
+}
+.nine{
+    background-color:white;
+    width:100%;
+    height:150px ;
+}
+.ten{
+    background-color:white;
+    width:100%;
+    height:600px ;
+    display: flex;
+}
+.ten img{
+    width:80%;
+    padding-left: 50px;
+
+} 
+.ten h1{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.ten h3{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.ten h4{
+    padding-left: 60px;
+    padding-top: 30px;
+}
+.ten :hover{
+    color: #b1a5a5;
+}
+.ten img:hover{
+    width: 90%;
+    
+}
+.eleven{
+    background-color:white;
+    width:100%;
+    height:600px ;
+    display: flex;
+}
+#pic13{
+    height: 400px;
+    width: 90%;
+    float: left;
+    padding-left: 60px;
+}
+#pic14{
+    height: 400px;
+    width: 100%;
+    padding-left: 80px;
+}
+.eleven h1{
+    padding-left: 100px;
+    padding-top: 60px;
+    display: flex;
+}
+.eleven h1:hover{
+    text-decoration: underline;
+}
+.eleven h3{
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.eleven button{
+   background-color: red;
+   color: white;
+   padding-left: 10px;
+   padding-top: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+   margin-left: 100px;
+   margin-top: 30px;
+   border: 0;
+}
+
+.eleven button:hover{
+    background-color:#750c19
+
+}
+*{
+    margin: 0;
+}
+.twelve{
+    background-color:white;
+    width:100%;
+    height:250px ;
+    margin-top: 10px;
+    
+}
+.twelve h1{
+    padding-top: 130px;
+    padding-left: 550px;
+
+}
+.thirteen{
+    background-color:white;
+    width:100%;
+    height:320px ;
+    display: flex;
+    
+}
+
+.thirteen img{
+    width:80%;
+    padding-left: 50px;
+
+} 
+
+.thirteen h3{
+    padding-left: 130px;
+    padding-top: 30px;
+}
+.thirteen h4{
+    padding-left: 130px;
+    padding-top: 10px;
+    color: gray;
+}
+.line1{
+    color: black;
+}
+.fourteen{
+    background-color:white;
+    width:100%;
+    height:80px ;
+}
+.fiveteen{
+    background-color:white;
+    width:100%;
+    height:350px ;
+    display: flex;
+
+}
+.fiveteen h3{
+    padding-left: 70px;
+    font-size: 15px;
+
+}
+.fiveteen h4{
+    padding-left: 70px;
+    font-size: 15px;
+    padding-top: 20px;
+    color:gray;
+}
+hr{
+   
+    color: black;
+    background-color: black;
+}
+.sixteen{
+    background-color:white;
+    width:100%;
+    height:100px ;
+    display: flex;
+}
+.sixteen h6{
+    padding-left: 30px;
+}
+.sixteen h5{
+    float: right;
+    padding-left: 1230px;
+}
